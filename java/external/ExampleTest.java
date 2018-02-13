@@ -7,7 +7,6 @@ import static com.google.common.truth.Truth.assertWithMessage;
 import base.Start;
 import base.TerminalMock;
 import com.google.common.truth.Correspondence;
-import edu.kit.informatik.Main;
 import edu.kit.informatik.Terminal;
 import org.junit.Before;
 import org.junit.Test;
